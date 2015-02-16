@@ -1,0 +1,6 @@
+[submodule "doc_Nucleo_F103RB"]
+	path = doc_Nucleo_F103RB
+	url = https://github.com/LaurentBa/doc_Nucleo_F103RB.git
+[submodule "libopencm3"]
+	path = libopencm3
+	url = https://github.com/libopencm3/libopencm3.git
